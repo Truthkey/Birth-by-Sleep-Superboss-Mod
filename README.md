@@ -12,4 +12,4 @@ A recommended tool to check MD5 checksum is in this website: https://www.winmd5.
 
 Now, just use xDelta UI added to this repository to patch your ISO.
 
-Here's the download link to the patch itself: https://drive.google.com/uc?id=1rTVf9ewihjuysFaCsiJWIF1b71h16L_7&export=download
+Here's the download link to the patch itself: 
