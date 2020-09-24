@@ -44,3 +44,11 @@ Dark Menace:
 - While 3 slots commands can be used, be wary that they can cause random crashes due to extra RAM being used.
 
 - Network desynchronizations can end up in bosses behaving incorrectly (sometimes making them harder because of it).
+
+# Testers
+Huge thank you to the following people who helped test the game:
+- [Meebo](https://twitter.com/Sora3100)
+- [Zakilj3](https://twitter.com/Zakilj3)
+- [Cyberman](https://twitter.com/Cyberman6)
+- [Bio-Roxas](https://twitter.com/Bio_Roxas)
+- [KZ](https://twitter.com/KZXcellent)
