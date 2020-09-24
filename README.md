@@ -17,3 +17,10 @@ A recommended tool to check MD5 checksum is in this website: https://www.winmd5.
 Now, just use xDeltaUI included to this repository to patch your ISO. xdelta.exe is required to run xdeltaUI.exe.
 
 Here's the download link to the patch itself: 
+
+# Common issues
+Greatest foes:
+- First round boss can have disappearing effects on clients.
+
+Dark Menace:
+- Final round boss can cause crashes at random or have disappearing effects on clients.
