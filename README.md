@@ -46,7 +46,7 @@ Dark Menace:
 - Network desynchronizations can end up in bosses behaving incorrectly (sometimes making them harder because of it).
 
 # Testers
-Huge thank you to the following people who helped test the game:
+Huge thank you to the following people who helped test the mod:
 - [Meebo](https://twitter.com/Sora3100)
 - [Zakilj3](https://twitter.com/Zakilj3)
 - [Cyberman](https://twitter.com/Cyberman6)
