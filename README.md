@@ -42,3 +42,5 @@ Dark Menace:
 - Final round boss can cause crashes at random or have disappearing effects on clients.
 
 - While 3 slots commands can be used, be wary that they can cause random crashes due to extra RAM being used.
+
+- Network desynchronizations can end up in bosses behaving incorrectly (sometimes making them harder because of it).
