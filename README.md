@@ -13,7 +13,7 @@ It is highly recommended to use **Group Esuna** and **Group Curaga** for all fig
 **New missions**:
 | Name | Difficulty | Description |
 ------------ | ------------- | -----------
-| Light's Lessons+ | (★★★★☆) | Fight an enhanced Armor of Eraqus. 
+| Light's Lessons+ | (★★★★☆) | Fight an enhanced version of Armor of Eraqus. 
 | Peering intro Darkness+ | (★★★★☆) | Fight an enhanced version of No Heart. 
 | Dark Menace | (★★☆☆☆) | Battle against a wave of darkness beings. 
 | Disney Rush | (★★★☆☆) | Battles against supercharged Disney bosses. 
