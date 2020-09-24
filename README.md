@@ -50,5 +50,6 @@ Huge thank you to the following people who helped test the game:
 - [Meebo](https://twitter.com/Sora3100)
 - [Zakilj3](https://twitter.com/Zakilj3)
 - [Cyberman](https://twitter.com/Cyberman6)
+- [13th Vessel](https://twitter.com/ligero_miguel)
 - [Bio-Roxas](https://twitter.com/Bio_Roxas)
 - [KZ](https://twitter.com/KZXcellent)
