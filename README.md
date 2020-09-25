@@ -61,4 +61,4 @@ Huge thank you to the following people who helped test the mod:
 
 # Contributions
 If you want to help me keep making things like this, please consider donating:  
-paypal.me/keytotruth
+[Donation link](paypal.me/keytotruth)
