@@ -17,8 +17,10 @@ It is highly recommended to use **Group Esuna** and **Group Curaga** for all fig
 | Peering intro Darkness+ | (★★★★☆) | Up to 3 players | Fight an enhanced version of No Heart. 
 | Dark Menace | (★★☆☆☆) | Up to 3 players | Battle against a wave of darkness beings. 
 | Disney Rush | (★★★☆☆) | Up to 3 players | Battles against supercharged Disney bosses. 
-| Ultimate Duo | (★★★★★) | Up to 2 players | Fight against No Heart and Armor of Eraqus.
+| Ultimate Duo | (★★★★★) | Up to 2 players* | Fight against No Heart and Armor of Eraqus.
 | Greatest Foes | (★★★★★) | Up to 3 players | Fight against enhanced versions of some of the greatest bosses in the game. 
+
+*This battle only works for 2 players. Adding a 3rd one will make the battle unplayable.
 
 **Extras**:
 - Normal Moogle added to the Mirage Arena to be able to buy regular commands without exiting the world.
