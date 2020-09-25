@@ -11,13 +11,14 @@ Difficulty is based on Critical Mode with Level 70-80 saves.
 It is highly recommended to use **Group Esuna** and **Group Curaga** for all fights.
 
 **New missions**:
-| Name | Difficulty | Description |
------------- | ------------- | -----------
-| Light's Lessons+ | (★★★★☆) | Fight an enhanced version of Armor of Eraqus. 
-| Peering intro Darkness+ | (★★★★☆) | Fight an enhanced version of No Heart. 
-| Dark Menace | (★★☆☆☆) | Battle against a wave of darkness beings. 
-| Disney Rush | (★★★☆☆) | Battles against supercharged Disney bosses. 
-| Greatest Foes | (★★★★★) | Fight against enhanced versions of some of the greatest bosses in the game. 
+| Name | Difficulty | Players | Description
+------------ | ------------- | ----------- | -----------
+| Light's Lessons+ | (★★★★☆) | Up to 3 players | Fight an enhanced version of Armor of Eraqus. 
+| Peering intro Darkness+ | (★★★★☆) | Up to 3 players | Fight an enhanced version of No Heart. 
+| Dark Menace | (★★☆☆☆) | Up to 3 players | Battle against a wave of darkness beings. 
+| Disney Rush | (★★★☆☆) | Up to 3 players | Battles against supercharged Disney bosses. 
+| Ultimate Duo | (★★★★★) | Up to 2 players | Fight against No Heart and Armor of Eraqus.
+| Greatest Foes | (★★★★★) | Up to 3 players | Fight against enhanced versions of some of the greatest bosses in the game. 
 
 **Extras**:
 - Normal Moogle added to the Mirage Arena to be able to buy regular commands without exiting the world.
