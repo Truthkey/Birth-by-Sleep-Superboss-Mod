@@ -23,7 +23,7 @@ It is highly recommended to use **Group Esuna** and **Group Curaga** for all fig
 **Extras**:
 - Normal Moogle added to the Mirage Arena to be able to buy regular commands without exiting the world.
 
-# How to use
+# --How to use--
 First you need to apply the patch to your ISO.  
 In order to check if your ISO is patchable, check if the following MD5 checksum matches your ISO.  
 A recommended tool to check MD5 checksum is in this website: https://www.winmd5.com/
@@ -33,7 +33,9 @@ A recommended tool to check MD5 checksum is in this website: https://www.winmd5.
 
 Now, just use xDeltaUI included to this repository to patch your ISO. xdelta.exe is required to run xdeltaUI.exe.
 
-Here's the download link to the patch itself: 
+Here's the download link to the patch itself in two different links:  
+https://drive.google.com/file/d/14b9s3bzcuNL35kkf4nv0JOMuAmTM0bWx/view?usp=sharing
+https://mega.nz/file/nGwknD6D#LPkgibBct0Hg0HQcIqFukv_KdJoKfZd9LLneS8zv0dI
 
 # Common issues
 Greatest foes:
@@ -45,6 +47,8 @@ Dark Menace:
 - While 3 slots commands can be used, be wary that they can cause random crashes due to extra RAM being used.
 
 - Network desynchronizations can end up in bosses behaving incorrectly (sometimes making them harder because of it).
+
+- During Ultimate Duo, No Heart can take a while to begin moving.
 
 # Testers
 Huge thank you to the following people who helped test the mod:
