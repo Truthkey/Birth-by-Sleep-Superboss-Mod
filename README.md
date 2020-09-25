@@ -58,3 +58,7 @@ Huge thank you to the following people who helped test the mod:
 - [13th Vessel](https://twitter.com/ligero_miguel)
 - [Bio-Roxas](https://twitter.com/Bio_Roxas)
 - [KZ](https://twitter.com/KZXcellent)
+
+# Contributions
+If you want to help me keep making things like this, please consider donating:  
+paypal.me/keytotruth
