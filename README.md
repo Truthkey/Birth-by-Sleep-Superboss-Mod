@@ -45,17 +45,19 @@ https://drive.google.com/file/d/1HpxdN5LI5YOG6GbhO29PCBAKJ0ZWoljn/view?usp=shari
 https://mega.nz/file/2KwwFRDS#SiFGprhihpmhoFS90OzJYUWfM451p5Kw2r1aM8_4hLU
 
 # Common issues
+- **Network desynchronizations can end up in bosses behaving incorrectly or breaking the actual fight (sometimes making them harder because of it).**
+
+- While 3 slots commands can be used, be wary that they can cause random crashes due to extra RAM being used.
+
 Greatest foes:
 - First round boss can have disappearing effects on clients.
 
 Dark Menace:
 - Final round boss can cause crashes at random or have disappearing effects on clients.
 
-- While 3 slots commands can be used, be wary that they can cause random crashes due to extra RAM being used.
-
-- Network desynchronizations can end up in bosses behaving incorrectly (sometimes making them harder because of it).
-
+Ultimate Duo:  
 - During Ultimate Duo, No Heart can take a while to begin moving.
+
 
 # Testers
 Huge thank you to the following people who helped test the mod:
