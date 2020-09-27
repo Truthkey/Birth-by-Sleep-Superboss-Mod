@@ -1,5 +1,7 @@
 # Birth by Sleep Final Mix Superboss Mod
-PSP emulator with a patch to fight superbosses.
+PSP emulator with a patch to fight superbosses.  
+
+**It is VERY important to use the emulator I provide for best compatibility and least crash chance.**
 
 The version of the mod can be verified by entering the Camp Menu (Start button) in
 the Mirage Arena Hub and looking at the map name as in the following image:
