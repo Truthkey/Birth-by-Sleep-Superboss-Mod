@@ -39,12 +39,15 @@ Now, just use xDeltaUI included to this repository to patch your ISO. xdelta.exe
 
 Here's the download link to the patch itself in two different links:  
 
-1.00  
-https://drive.google.com/file/d/14b9s3bzcuNL35kkf4nv0JOMuAmTM0bWx/view?usp=sharing
+1.02  
+https://drive.google.com/file/d/1dy5U_gAWG-UQgPZU6w8GoFHAeSONCJwE/view?usp=sharing
 
 1.01  
 https://drive.google.com/file/d/1HpxdN5LI5YOG6GbhO29PCBAKJ0ZWoljn/view?usp=sharing
 https://mega.nz/file/2KwwFRDS#SiFGprhihpmhoFS90OzJYUWfM451p5Kw2r1aM8_4hLU
+
+1.00  
+https://drive.google.com/file/d/14b9s3bzcuNL35kkf4nv0JOMuAmTM0bWx/view?usp=sharing
 
 # Common issues
 - **Network desynchronizations can end up in bosses behaving incorrectly or breaking the actual fight (sometimes making them harder because of it).**
